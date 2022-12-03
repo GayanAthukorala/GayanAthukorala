@@ -1,7 +1,7 @@
-<div align = "center">
+
 # Hi! I'm Gayan Athukorala, Welcome to my GitHub 👋
 ### 💻 Software Engineering at McMaster University 💻
-</div>
+
 <!--
 **GayanAthukorala/GayanAthukorala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🚀 Payload and Ground Controls Sub-team on the McMaster Rocketry Team
 - ⚡ Interested in Full-Stack Development
 - 🌱 Currently learning Cloud Computing
+- 💼 Prev. Jr. Software Engineer @ Tech Mahindra
 
 ## Languages, Frameworks, and Tools
 Python 
