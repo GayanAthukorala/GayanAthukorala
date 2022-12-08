@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 - 💼 Prev. Jr. Software Engineer @ Tech Mahindra
 
 ## Languages, Frameworks, and Tools
-Python, JavaScript, React, HTML, CSS
+- Python
+- JavaScript
+- React
+- Django
+- SQL
+- HTML
+- CSS
 
 
