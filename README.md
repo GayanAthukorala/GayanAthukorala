@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 👨‍🎓 In my 2nd year studying Software Engineering at McMaster Univeristy 
+- 👨‍🎓 In my 2nd year studying Software Engineering at McMaster University 
 - 🚀 Payload and Ground Controls Sub-team on the McMaster Rocketry Team
 - ⚡ Interested in Full-Stack Development
 - 🌱 Currently learning Cloud Computing
