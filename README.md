@@ -1,6 +1,6 @@
 
 # Hi! I'm Gayan Athukorala, Welcome to my GitHub 👋
-### 💻 Software Engineering at McMaster University | Cloud and AI @ Ontario Health 💻
+### 💻 Software Engineering at McMaster University | Cloud Security @ Scotiabank 💻
 
 <!--
 **GayanAthukorala/GayanAthukorala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Interested in Full-Stack Development
 - 🌱 Currently learning Cloud Computing
 - 💼 Prev. Jr. Software Engineer @ Tech Mahindra
+- 💼 Prev. Cloud and AI @ Ontario Health
 
 ## Languages, Frameworks, and Tools
 - Python
