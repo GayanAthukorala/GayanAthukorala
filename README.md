@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 
 ## Languages, Frameworks, and Tools
 - Python
+- Java
 - JavaScript
+- AWS
+- GCP
 - React
 - Django
 - SQL
