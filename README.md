@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 👨‍🎓 In my 2nd year studying Software Engineering at McMaster University 
+- 👨‍🎓 In my 3rd year studying Software Engineering at McMaster University 
 - 🚀 Payload and Ground Controls Sub-team on the McMaster Rocketry Team
+- 💻 Logistics Exec on DeltaHacks
 - ⚡ Interested in Full-Stack Development
 - 🌱 Currently learning Cloud Computing
 - 💼 Prev. Jr. Software Engineer @ Tech Mahindra
 - 💼 Prev. Cloud and AI @ Ontario Health
+- 💼 Cloud Security Engineer Intern @ Scotiabank
 
 ## Languages, Frameworks, and Tools
 - Python
