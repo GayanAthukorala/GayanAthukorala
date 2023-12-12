@@ -1,6 +1,6 @@
 
 # Hi! I'm Gayan Athukorala, Welcome to my GitHub 👋
-### 💻 Software Engineering at McMaster University | Cloud Security @ Scotiabank 💻
+### 💻 Software Engineering at McMaster University | SWE Intern @ Scotiabank 💻
 
 <!--
 **GayanAthukorala/GayanAthukorala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
