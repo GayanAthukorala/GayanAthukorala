@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 👨‍🎓 In my 3rd year studying Software Engineering at McMaster University
-- 💼 Cloud Security Engineer Intern @ Scotiabank
+- 💼 Software Engineer Intern @ Scotiabank
 - 🚀 Payload and Ground Controls Sub-team on the McMaster Rocketry Team
 - 💻 Logistics Exec on DeltaHacks
 - ⚡ Interested in Full-Stack Development
