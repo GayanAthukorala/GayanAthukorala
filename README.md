@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 ## About Me
 - 👨‍🎓 In my 3rd year studying Software Engineering at McMaster University
-- 🚀 Payload and Ground Controls Sub-team on the McMaster Rocketry Team
-- 💻 Logistics Exec on DeltaHacks
+- 💼 Software Developer Intern @ IBM
+- 💻 VP Sponsorship on DeltaHacks
 - ⚡ Interested in Full-Stack Development
 - 🌱 Currently learning Cloud Computing
-- 💼 Prev. SWE and Cloud Security @ Scotiabank
-- 💼 Prev. Cloud and AI @ Ontario Health
-- 💼 Prev. Jr. Software Engineer @ Tech Mahindra
 
 ## Languages, Frameworks, and Tools
 - Python
