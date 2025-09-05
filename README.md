@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## About Me
 - 👨‍🎓 In my 4th year studying Software Engineering at McMaster University
 - 💼 Prev @ Tesla, IBM, Scotiabank
-- 💻 VP Sponsorship @ DeltaHacks[https://www.deltahacks.com/#Sponsors]
+- 💻 VP Sponsorship @ [DeltaHacks](https://www.deltahacks.com/#Sponsors)
 
 ## Languages, Frameworks, and Tools
 - Python
