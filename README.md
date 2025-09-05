@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 👨‍🎓 In my 3rd year studying Software Engineering at McMaster University
-- 💼 Software Developer Intern @ IBM
-- 💻 VP Sponsorship on DeltaHacks
-- ⚡ Interested in Full-Stack Development
-- 🌱 Currently learning Cloud Computing
+- 👨‍🎓 In my 4th year studying Software Engineering at McMaster University
+- 💼 Prev @ Tesla, IBM, Scotiabank
+- 💻 VP Sponsorship @ DeltaHacks[https://www.deltahacks.com/#Sponsors]
 
 ## Languages, Frameworks, and Tools
 - Python
