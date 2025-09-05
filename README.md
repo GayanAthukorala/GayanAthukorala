@@ -22,19 +22,5 @@ Here are some ideas to get you started:
 - 💼 Prev @ Tesla, IBM, Scotiabank
 - 💻 VP Sponsorship @ [DeltaHacks](https://www.deltahacks.com/#Sponsors)
 
-## Languages, Frameworks, and Tools
-- Python
-- Java
-- JavaScript
-- React
-- AWS
-- GCP
-- Azure
-- Docker
-- Kubernetes
-- Django
-- SQL
-- HTML
-- CSS
 
 
